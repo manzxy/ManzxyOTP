@@ -255,6 +255,7 @@ ManzxyOTP/
 Nama      : Manzxy
 Instagram : @manzkenzzid_
 TikTok    : @manzoffc
+Telegram   : t.me/manukzx 
 GitHub    : github.com/manzxy
 ```
 
