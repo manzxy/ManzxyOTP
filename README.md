@@ -273,6 +273,6 @@ Lihat berkas [`LICENSE`](./LICENSE) untuk ketentuan lengkap penggunaan.
 
 <div align="center">
 
-**Dibuat dengan ❤️ oleh [Manzxy](https://github.com/manzxy)**
+**Dibuat dengan oleh [Manzxy/Claude](https://github.com/manzxy)**
 
 </div>
