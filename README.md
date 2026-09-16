@@ -7,10 +7,10 @@
 [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D18-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
 [![PM2 Ready](https://img.shields.io/badge/PM2-Ready-2B037A?style=flat-square&logo=pm2&logoColor=white)](https://pm2.keymetrics.io)
 [![Provider](https://img.shields.io/badge/Provider-RumahOTP-blue?style=flat-square)]()
-[![Payment](https://img.shields.io/badge/Payment-MustikaPay%20QRIS-orange?style=flat-square)]()
+[![Payment](https://img.shields.io/badge/Payment-KiPay%20QRIS-orange?style=flat-square)]()
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)](./LICENSE)
 
-**Provider OTP:** RumahOTP &nbsp;•&nbsp; **Payment Gateway:** MustikaPay &nbsp;•&nbsp; **Versi:** v1.2
+**Provider OTP:** RumahOTP &nbsp;•&nbsp; **Payment Gateway:** KiPay &nbsp;•&nbsp; **Versi:** v1.2
 
 </div>
 
