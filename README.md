@@ -10,7 +10,7 @@
 [![Payment](https://img.shields.io/badge/Payment-KiPay%20QRIS-orange?style=flat-square)]()
 [![License](https://img.shields.io/badge/License-MIT%20%2B%20Attribution-yellow?style=flat-square)](./LICENSE)
 
-**Provider OTP:** RumahOTP &nbsp;•&nbsp; **Payment Gateway:** KiPay &nbsp;•&nbsp; **Versi:** v1.3
+**Provider OTP:** RumahOTP &nbsp;•&nbsp; **Payment Gateway:** KiPay &nbsp;•&nbsp; **Versi:** v1.5
 
 **Satu bot, dua mode:** 🔐 OTP (jualan OTP) ⇄ 🧩 MD (utility/grup) — switch instan lewat `/setmode`
 
@@ -53,7 +53,10 @@
 | 🔧 **Maintenance Mode** | Manual (`/mstart` `/mend`) atau terjadwal otomatis (jam WIB) |
 | 🔁 **Auto-Topup** | Notifikasi otomatis saat saldo RumahOTP menipis |
 | 📊 **Log Tersensor** | Nomor & kode OTP otomatis disensor di log admin |
-| 🧩 **Plugin MD** | Kick/promote/mute/warn/antilink/welcome/tagall dll, struktur plugin sendiri |
+| 🧩 **Plugin MD** | 22 plugin siap pakai: kick/promote/mute/warn/antilink/welcome/tagall/downloader dll |
+| 🔘 **Menu Tombol MD** | `.menu` serba-tombol — toggle setting & navigasi tanpa ngetik command manual |
+| 💎 **Premium & Limit** | Fitur ber-limit harian per-user (mis. downloader), upgrade premium lewat owner |
+| 📊 **Log Aktivitas MD** | Setiap command MD tercatat ke console (tanpa kirim apa pun ke Telegram) |
 | 🔌 **Plugin Hot-Reload** | Tambah plugin custom (OTP maupun MD) tanpa restart bot |
 | ⚡ **PM2 Ready** | Auto-restart jika crash, siap untuk produksi |
 
@@ -78,6 +81,17 @@ pm2 save && pm2 startup
 
 📖 Panduan instalasi lengkap ada di [`INSTALL.md`](./INSTALL.md).
 
+**Dependency** sudah dicek ke versi stabil terbaru (per research langsung ke npm registry &
+dokumentasi resmi masing-masing):
+
+| Package | Versi | Catatan |
+|---|---|---|
+| `node-telegram-bot-api` | `^0.65.1` | **Sengaja TIDAK** ikut ke v2.x — v2 adalah rewrite total tanpa kompatibilitas ke v1, akan merusak seluruh kode bot ini. v0.65.1 adalah versi stabil terbaru di jalur v1 yang kompatibel. |
+| `axios` | `^1.20.0` | Versi yang sudah di-patch — ada insiden supply-chain di versi lama (1.14.1), dipastikan tidak kepakai. |
+| `chokidar` | `^4.0.0` | Major terbaru yang masih CommonJS-compatible (v5 ESM-only, butuh Node 20+ — terlalu berisiko untuk saat ini). |
+| `qrcode` | `^1.5.4` | — |
+| `dotenv` | `^16.4.5` | — |
+
 ---
 
 ## 🔀 Mode Ganda: OTP ⇄ MD
@@ -101,7 +115,7 @@ mode baru langsung aktif, **tanpa restart bot**.
 
 **Kenapa database-nya dipisah?** Skema datanya beda total — mode OTP nyimpen user/
 saldo/order/deposit, mode MD nyimpen setting grup/warn/member. Dipisah dari awal
-(`db.js` vs `src/md/mddb.js`) supaya dua dunia ini gak pernah saling nyampur atau
+(`db.js` vs `src/md/db/mddb.js`) supaya dua dunia ini gak pernah saling nyampur atau
 nabrak, dan masing-masing tetap jalan rapi walau bot lagi di mode satunya — job
 background seperti auto-poll deposit tetap jalan di mode MD sekalipun, jadi
 transaksi OTP yang lagi berjalan gak pernah ke-drop cuma gara-gara ganti mode.
@@ -183,7 +197,9 @@ Kebijakan privasi bisa diakses user kapan saja lewat `/privasi`, ringkasnya:
 | `PRICE_MARKUP` | Markup harga untuk user (%) |
 | `PRICE_MARKUP_ADMIN` | Markup harga untuk admin (%) |
 | `ADMIN_IDS` | Telegram ID admin, pisah koma |
-| `LOG_CHANNEL_ID` | Channel untuk log transaksi |
+| `LOG_CHANNEL_ID` | Channel untuk log transaksi (mode OTP) |
+| `MD_LIMIT_FREE` / `MD_LIMIT_PREMIUM` | Jatah limit harian mode MD untuk user free / premium (default 10 / 20) |
+| `MD_TIMEZONE` | Zona waktu reset limit jam 00:00 (default `Asia/Jakarta`) |
 | `MAINTENANCE_ENABLED` | Aktifkan jadwal maintenance otomatis |
 | `AUTO_TOPUP_ENABLED` | Notif otomatis saat saldo RumahOTP tipis |
 | `REQUIRED_CHANNELS` | Channel wajib join sebelum pakai bot |
@@ -233,32 +249,96 @@ Kebijakan privasi bisa diakses user kapan saja lewat `/privasi`, ringkasnya:
 ## 🧩 Command Mode MD
 
 Prefix default `.` (bisa diganti per grup lewat `setprefix`), atau pakai `/` —
-dua-duanya jalan. Lihat daftar lengkap & deskripsi langsung di bot lewat `.help`.
+dua-duanya jalan.
+
+**Paling gampang: ketik `.menu`** — satu command yang nampilin semua fitur
+lewat tombol, tinggal tap, gak perlu hafalin/ngetik command satu-satu
+(`.start` dan `.help` juga alias ke menu yang sama). Toggle setting
+(antilink, welcome) juga tombol langsung, gak perlu ngetik `on`/`off` manual.
 
 ```text
 UMUM
-.start / .menu          Info bot & mode aktif
-.help                    Daftar semua command
+.menu                    Menu utama — semua fitur lewat tombol (alias: .start .help)
 .groupinfo               Info & statistik grup
+.id                       Lihat Chat ID grup & User ID (atau user yang di-reply)
+.rules [set <teks>]       Lihat/atur peraturan grup
 
-ADMIN GRUP  (perlu bot jadi admin grup + izin terkait)
-.kick                    Kick member (reply pesannya)
-.promote                 Jadikan member admin grup (reply pesannya)
-.demote                  Cabut status admin (reply pesannya)
-.mute / .unmute          Bisukan / lepas bisu member (reply pesannya)
+ADMIN GRUP  (reply ke pesan member target)
+.kick                    Kick member
+.promote / .demote       Jadikan / cabut status admin grup
+.mute / .unmute          Bisukan / lepas bisu member
 .warn                    Beri peringatan — auto-kick di peringatan ke-3
 .resetwarn               Reset peringatan member ke 0
-.tagall [pesan]           Mention semua member yang pernah aktif di grup
 
-SETTING GRUP  (admin grup)
+ADMIN GRUP  (tanpa reply)
+.tagall [pesan]           Mention semua member yang pernah aktif di grup
+.lock / .unlock           Kunci/buka grup (cuma admin yang bisa kirim pesan)
+.pin / .unpin             Pin pesan yang di-reply / lepas semua pin
+.setname <nama>           Ganti nama grup
+
+SETTING GRUP  (admin grup — bisa juga lewat tombol di .menu)
 .antilink on|off          Auto-hapus pesan berisi link dari non-admin
 .welcome on|off           Pesan sambutan otomatis member baru
 .setprefix <karakter>     Ganti prefix command grup ini (maks 3 karakter)
+
+DOWNLOADER  (memotong limit harian per-user)
+.tiktok <link>            Video/foto TikTok tanpa watermark + deskripsi lengkap (1 limit)
+                          Tombol 🎵 Download MP3 muncul di bawah hasilnya (alias: .tt)
+
+LIMIT  (umum)
+.limit                    Cek sisa limit hari ini & waktu reset
+
+OWNER BOT  (admin global, bukan admin grup)
+.premium [status]         Cek status premium (reply ke user lain buat cek dia)
+.premium on [hari]         Reply ke user → aktifkan premium (default 30 hari)
+.premium permanen          Reply ke user → premium tanpa batas waktu
+.premium off               Reply ke user → cabut premium
+.setlimit <angka|reset>    Reply ke user → atur jatah limit harian khusus dia
+
+PLUGIN  (owner — kelola plugin dari chat, per kategori)
+.svplugins <kategori>/<nama>   Simpan plugin baru (reply file .js / kode)
+.editplugins <nama>            Timpa plugin (file lama di-backup)
+.delplugins <nama>             Hapus plugin (di-backup dulu)
+.listplugins [kategori|nama]   Daftar per kategori / kirim file plugin
+
+FILE  (owner — simpan file di server)
+.svfile <nama>             Simpan file (reply file / kirim dengan caption)
+.editfile <nama>           Timpa isi file · .editfile lama baru → ganti nama
+.delfile <nama>            Hapus file
+.listfile [nama]           Daftar file / kirim file-nya
 ```
 
 > Keterbatasan platform (bukan bug): Telegram Bot API tidak punya endpoint untuk
 > mengambil **semua** member grup sekaligus, jadi `.tagall` hanya mention member
 > yang sudah pernah kelihatan aktif (kirim pesan) sejak bot gabung di grup itu.
+
+### 💎 Sistem Premium & Limit (per USER, bukan per grup)
+
+Setiap user punya **jatah limit per hari**, dan tiap fitur memotong limit sesuai
+biayanya (contoh: `.tiktok` = 1 limit). **Limit & status premium melekat ke akun
+Telegram orangnya**, bukan ke grup — berlaku di grup manapun dia pakai bot ini.
+
+| | |
+|---|---|
+| Jatah free | 10 limit/hari (`MD_LIMIT_FREE`) |
+| Jatah premium | 20 limit/hari (`MD_LIMIT_PREMIUM`) |
+| Jatah khusus | Owner reply ke user → `.setlimit 50` (atau `.setlimit reset`) |
+| Reset | Otomatis **tiap jam 00:00** (`MD_TIMEZONE`, default WIB) |
+| Upgrade | Owner reply ke user → `.premium on 30` |
+| Cek sisa | `.limit` atau tombol 💎 di `.menu` |
+| Owner bot | Tidak kena limit |
+
+Fitur gagal → limit otomatis dikembalikan. Mau bikin fitur baru yang memakai
+limit? Cukup tulis `limit: <biaya>` di plugin dan panggil `ctx.limit.take()` —
+panduan di [`plugins-md/README.md`](./plugins-md/README.md).
+
+### 📊 Log Aktivitas
+
+Setiap command MD yang dipakai dicatat ke **console saja** (format rapi, warna
+beda per jenis event). Sengaja tidak ada pengiriman log ke channel/grup Telegram:
+kirim pesan otomatis tiap command berisiko kena spam-limit dan bot di-banned.
+Lihat `src/md/core/logger.js`. (Log transaksi mode OTP via `LOG_CHANNEL_ID` tidak
+berubah.)
 
 Mau nambah command sendiri? Taruh file baru di `/plugins-md` — hot-reload otomatis,
 tanpa restart. Lihat [`plugins-md/README.md`](./plugins-md/README.md).
@@ -304,16 +384,26 @@ ManzxyOTP/
 │   │   └── plugin-loader.js Hot-reload plugin mode OTP (folder /plugins)
 │   │
 │   ├── md/                  ── Mode MD ───────────────────────────────────
-│   │   ├── mddb.js          Database JSON mode MD (setting grup, warn, member)
-│   │   ├── pluginLoader.js  Hot-reload plugin mode MD (folder /plugins-md)
-│   │   └── dispatcher.js    Router command + event welcome/antilink
+│   │   ├── core/
+│   │   │   ├── dispatcher.js   Router command (prefix/slash) + event welcome/antilink
+│   │   │   ├── callbacks.js    Router tombol inline (menu MD + tombol milik plugin)
+│   │   │   ├── context.js      Pembuat ctx untuk plugin (reply, db, limit, isOwner)
+│   │   │   ├── pluginLoader.js Hot-reload plugin MD per kategori (folder /plugins-md)
+│   │   │   └── logger.js       Log aktivitas command MD (console saja)
+│   │   ├── db/
+│   │   │   ├── mddb.js         Database JSON MD (grup + user), cache & tulis atomik
+│   │   │   └── limit.js        Limit harian per user (potong, refund, reset 00:00)
+│   │   ├── ui/menuView.js      Builder teks & keyboard menu MD
+│   │   ├── scrapers/ttdl.js    Scraper TikTok (ttdl.zone.id)
+│   │   ├── services/           Logika fitur: tiktok.js, pluginStore.js, fileStore.js
+│   │   └── lib/                Helper: format.js, tgfile.js
 │   │
 │   └── jobs/
 │       ├── poller.js        Auto-poll deposit, auto-expire order (selalu jalan)
 │       └── autotopup.js     Notif auto-topup RumahOTP (selalu jalan)
 │
 ├── plugins/                 Plugin custom mode OTP (hot-reload)
-├── plugins-md/               Plugin custom mode MD (hot-reload) — lihat README di dalamnya
+├── plugins-md/              Plugin mode MD per kategori (admin/ downloader/ file/ owner/ plugin/ setting/ umum/) — hot-reload
 ├── data/                    Database (auto-generated: db.json, md-db.json, mode.json)
 └── logs/                    Log PM2
 ```
@@ -362,6 +452,6 @@ Lihat berkas [`LICENSE`](./LICENSE) untuk teks lengkap.
 
 <div align="center">
 
-**Dibuat dengan ❤️ oleh [Manzxy](https://github.com/manzxy)**
+**Made By [Manzxy](https://github.com/manzxy)**
 
 </div>
