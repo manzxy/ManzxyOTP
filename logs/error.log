@@ -1,0 +1,696 @@
+2026-10-13 11:24:07: ❌ Gagal connect ke Telegram: EFATAL: Error: read ECONNRESET
+2026-10-13 14:40:13: [cb] uid=8194101640 data=menu:otp: [RO:services] Timeout — server RumahOTP tidak merespons
+2026-10-13 14:40:13: [31m[14:40:13] [ERROR][0m uid=8194101640(manukzx) ctx=cb:menu:otp: [RO:services] Timeout — server RumahOTP tidak merespons
+2026-10-13 14:43:19: [cb] uid=8194101640 data=menu:otp: [RO:services] Timeout — server RumahOTP tidak merespons
+2026-10-13 14:43:19: [31m[14:43:19] [ERROR][0m uid=8194101640(manukzx) ctx=cb:menu:otp: [RO:services] Timeout — server RumahOTP tidak merespons
+2026-10-13 14:43:47: (node:472) [node-telegram-bot-api] DeprecationWarning: Buffers will have their filenames default to "filename" instead of "data". See https://github.com/yagop/node-telegram-bot-api/blob/master/doc/usage.md#sending-files for more information on how sending files has been improved and on how to disable this deprecation message altogether.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+2026-10-13 14:52:41: [poller] verifyDeposit QRIS-20261013-WYSPMT: timeout of 10000ms exceeded
+2026-10-13 15:19:31: [poller] verifyDeposit QRIS-20261013-WYSPMT: timeout of 10000ms exceeded
+2026-10-13 15:28:51: [poller] verifyDeposit QRIS-20261013-WYSPMT: timeout of 10000ms exceeded
+2026-10-13 16:04:32: [poller] verifyDeposit QRIS-20261013-WYSPMT: timeout of 10000ms exceeded
+2026-10-13 16:15:35: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 502
+2026-10-13 16:15:42: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 502
+2026-10-13 16:15:52: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 502
+2026-10-13 16:16:02: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 502
+2026-10-13 16:16:12: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 502
+2026-10-13 16:16:22: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 502
+2026-10-13 16:16:32: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 502
+2026-10-13 16:16:42: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:16:52: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:17:02: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:17:12: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:17:22: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:17:32: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:17:42: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:17:52: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:18:02: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:18:12: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:18:22: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:18:32: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:18:42: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:18:52: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:19:02: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:19:12: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:19:22: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:19:32: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:19:42: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:19:52: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:20:02: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:20:12: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:20:24: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:20:32: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:20:42: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:20:52: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:21:02: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:21:12: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:21:22: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:21:32: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:21:42: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:21:52: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:22:02: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:22:12: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:22:22: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:22:32: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:22:42: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:22:52: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:23:02: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:23:12: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:23:22: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:23:32: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:23:42: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:23:52: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:24:02: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:24:12: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:24:22: [poller] verifyDeposit QRIS-20261013-WYSPMT: Request failed with status code 530
+2026-10-13 16:24:42: [poller] verifyDeposit QRIS-20261013-WYSPMT: timeout of 10000ms exceeded
+2026-10-13 16:25:02: [poller] verifyDeposit QRIS-20261013-WYSPMT: timeout of 10000ms exceeded
+2026-10-13 16:25:22: [poller] verifyDeposit QRIS-20261013-WYSPMT: timeout of 10000ms exceeded
+2026-10-13 16:28:22: [poller] verifyDeposit QRIS-20261013-WYSPMT: timeout of 10000ms exceeded
+2026-10-13 22:48:33: [cb] uid=8194101640 data=menu:otp: [RO:services] Timeout — server RumahOTP tidak merespons
+2026-10-13 22:48:33: [31m[22:48:33] [ERROR][0m uid=8194101640(manukzx) ctx=cb:menu:otp: [RO:services] Timeout — server RumahOTP tidak merespons
+2026-10-14 08:01:38: [31m[08:01:38] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: Error: read ETIMEDOUT
+2026-10-14 08:01:38: [31m[08:01:38] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:39: [31m[08:01:39] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:40: [31m[08:01:40] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:40: [31m[08:01:40] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:41: [31m[08:01:41] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:41: [31m[08:01:41] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:42: [31m[08:01:42] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:43: [31m[08:01:43] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:43: [31m[08:01:43] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:44: [31m[08:01:44] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:44: [31m[08:01:44] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:45: [31m[08:01:45] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:45: [31m[08:01:45] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:46: [31m[08:01:46] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:47: [31m[08:01:47] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:47: [31m[08:01:47] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:48: [31m[08:01:48] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:48: [31m[08:01:48] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:49: [31m[08:01:49] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:50: [31m[08:01:50] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:50: [31m[08:01:50] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:51: [31m[08:01:51] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:51: [31m[08:01:51] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:52: [31m[08:01:52] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:52: [31m[08:01:52] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:53: [31m[08:01:53] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:54: [31m[08:01:54] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:54: [31m[08:01:54] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:55: [31m[08:01:55] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:55: [31m[08:01:55] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:56: [31m[08:01:56] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:57: [31m[08:01:57] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:57: [31m[08:01:57] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:58: [31m[08:01:58] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:58: [31m[08:01:58] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:59: [31m[08:01:59] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:01:59: [31m[08:01:59] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:00: [31m[08:02:00] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:01: [31m[08:02:01] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:01: [31m[08:02:01] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:02: [31m[08:02:02] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:02: [31m[08:02:02] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:03: [31m[08:02:03] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:04: [31m[08:02:04] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:04: [31m[08:02:04] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:05: [31m[08:02:05] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:05: [31m[08:02:05] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:06: [31m[08:02:06] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:06: [31m[08:02:06] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:07: [31m[08:02:07] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:08: [31m[08:02:08] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:08: [31m[08:02:08] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:09: [31m[08:02:09] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:09: [31m[08:02:09] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:10: [31m[08:02:10] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:11: [31m[08:02:11] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:11: [31m[08:02:11] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:12: [31m[08:02:12] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:12: [31m[08:02:12] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:13: [31m[08:02:13] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:02:13: [31m[08:02:13] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:10: [31m[08:04:10] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: Error: read ETIMEDOUT
+2026-10-14 08:04:10: [31m[08:04:10] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:11: [31m[08:04:11] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:11: [31m[08:04:11] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:12: [31m[08:04:12] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:13: [31m[08:04:13] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:13: [31m[08:04:13] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:14: [31m[08:04:14] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:14: [31m[08:04:14] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:15: [31m[08:04:15] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:16: [31m[08:04:16] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:16: [31m[08:04:16] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:17: [31m[08:04:17] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:17: [31m[08:04:17] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:18: [31m[08:04:18] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:18: [31m[08:04:18] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:19: [31m[08:04:19] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:20: [31m[08:04:20] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:20: [31m[08:04:20] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:21: [31m[08:04:21] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:21: [31m[08:04:21] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:22: [31m[08:04:22] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:23: [31m[08:04:23] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:23: [31m[08:04:23] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:24: [31m[08:04:24] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:24: [31m[08:04:24] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:25: [31m[08:04:25] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:31: [31m[08:04:31] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 08:04:31: [31m[08:04:31] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 22:33:32: [31m[22:33:32] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: Error: read ETIMEDOUT
+2026-10-14 22:33:32: [31m[22:33:32] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 22:33:33: [31m[22:33:33] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 22:33:33: [31m[22:33:33] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 22:33:34: [31m[22:33:34] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 22:33:34: [31m[22:33:34] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 22:33:35: [31m[22:33:35] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 22:33:36: [31m[22:33:36] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 22:33:41: [31m[22:33:41] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 22:33:42: [31m[22:33:42] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 22:33:42: [31m[22:33:42] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 22:33:43: [31m[22:33:43] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 22:33:44: [31m[22:33:44] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 22:33:44: [31m[22:33:44] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 22:33:45: [31m[22:33:45] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 22:33:45: [31m[22:33:45] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 22:33:46: [31m[22:33:46] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 22:33:46: [31m[22:33:46] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 22:33:47: [31m[22:33:47] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 22:33:48: [31m[22:33:48] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 22:33:48: [31m[22:33:48] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-14 22:33:49: [31m[22:33:49] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-15 23:41:09: [31m[23:41:09] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-15 23:41:10: [31m[23:41:10] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-15 23:41:11: [31m[23:41:11] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: Error: read ECONNRESET
+2026-10-16 19:20:43: [31m[19:20:43] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 429 Too Many Requests: retry after 5
+2026-10-16 19:20:44: [31m[19:20:44] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 429 Too Many Requests: retry after 5
+2026-10-16 19:20:44: [31m[19:20:44] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 429 Too Many Requests: retry after 5
+2026-10-16 19:20:45: [31m[19:20:45] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 429 Too Many Requests: retry after 5
+2026-10-16 19:20:45: [31m[19:20:45] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 429 Too Many Requests: retry after 5
+2026-10-16 19:20:46: [31m[19:20:46] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 429 Too Many Requests: retry after 5
+2026-10-16 19:20:46: [31m[19:20:46] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 429 Too Many Requests: retry after 5
+2026-10-16 19:20:47: [31m[19:20:47] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 429 Too Many Requests: retry after 5
+2026-10-16 19:20:47: [31m[19:20:47] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 429 Too Many Requests: retry after 5
+2026-10-16 19:20:48: [31m[19:20:48] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 429 Too Many Requests: retry after 5
+2026-10-16 19:20:51: [31m[19:20:51] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-16 19:20:52: [31m[19:20:52] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-16 19:20:52: [31m[19:20:52] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-16 19:20:53: [31m[19:20:53] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-16 19:20:53: [31m[19:20:53] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-16 19:20:54: [31m[19:20:54] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-16 19:20:54: [31m[19:20:54] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-16 19:20:55: [31m[19:20:55] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-16 19:20:55: [31m[19:20:55] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-16 19:20:56: [31m[19:20:56] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-16 19:20:56: [31m[19:20:56] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-16 19:20:57: [31m[19:20:57] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-16 19:20:57: [31m[19:20:57] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-16 19:20:58: [31m[19:20:58] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-16 19:20:58: [31m[19:20:58] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-16 19:20:59: [31m[19:20:59] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-16 19:20:59: [31m[19:20:59] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-16 19:20:59: [31m[19:20:59] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-17 07:28:18: [cb] uid=8194101640 data=menu:otp: [RO:services] Timeout — server RumahOTP tidak merespons
+2026-10-17 07:28:18: [31m[07:28:18] [ERROR][0m uid=8194101640(manukzx) ctx=cb:menu:otp: [RO:services] Timeout — server RumahOTP tidak merespons
+2026-10-17 09:02:10: [31m[09:02:10] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: Error: read ETIMEDOUT
+2026-10-17 09:02:11: [31m[09:02:11] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:12: [31m[09:02:12] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:12: [31m[09:02:12] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:13: [31m[09:02:13] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:14: [31m[09:02:14] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:14: [31m[09:02:14] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:15: [31m[09:02:15] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:15: [31m[09:02:15] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:16: [31m[09:02:16] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:17: [31m[09:02:17] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:17: [31m[09:02:17] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:18: [31m[09:02:18] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:18: [31m[09:02:18] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:19: [31m[09:02:19] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:19: [31m[09:02:19] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:20: [31m[09:02:20] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:21: [31m[09:02:21] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:21: [31m[09:02:21] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:22: [31m[09:02:22] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:22: [31m[09:02:22] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:23: [31m[09:02:23] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:23: [31m[09:02:23] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:24: [31m[09:02:24] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:25: [31m[09:02:25] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:25: [31m[09:02:25] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:26: [31m[09:02:26] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:26: [31m[09:02:26] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:27: [31m[09:02:27] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:28: [31m[09:02:28] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:28: [31m[09:02:28] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:29: [31m[09:02:29] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:29: [31m[09:02:29] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:30: [31m[09:02:30] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:30: [31m[09:02:30] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:31: [31m[09:02:31] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:37: [31m[09:02:37] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:37: [31m[09:02:37] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:38: [31m[09:02:38] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:38: [31m[09:02:38] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:39: [31m[09:02:39] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:39: [31m[09:02:39] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:40: [31m[09:02:40] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:41: [31m[09:02:41] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:41: [31m[09:02:41] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:42: [31m[09:02:42] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:42: [31m[09:02:42] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:43: [31m[09:02:43] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:44: [31m[09:02:44] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:44: [31m[09:02:44] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:45: [31m[09:02:45] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:45: [31m[09:02:45] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:46: [31m[09:02:46] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:46: [31m[09:02:46] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:47: [31m[09:02:47] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:48: [31m[09:02:48] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:48: [31m[09:02:48] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:49: [31m[09:02:49] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:49: [31m[09:02:49] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:50: [31m[09:02:50] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:50: [31m[09:02:50] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:51: [31m[09:02:51] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:52: [31m[09:02:52] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:52: [31m[09:02:52] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:53: [31m[09:02:53] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:53: [31m[09:02:53] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:54: [31m[09:02:54] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:55: [31m[09:02:55] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:55: [31m[09:02:55] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:56: [31m[09:02:56] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:56: [31m[09:02:56] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:57: [31m[09:02:57] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:57: [31m[09:02:57] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:58: [31m[09:02:58] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:59: [31m[09:02:59] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:02:59: [31m[09:02:59] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 09:03:00: [31m[09:03:00] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 12:38:18: [cb] uid=8194101640 data=menu:otp: [RO:services] Timeout — server RumahOTP tidak merespons
+2026-10-17 12:38:18: [31m[12:38:18] [ERROR][0m uid=8194101640(manukzx) ctx=cb:menu:otp: [RO:services] Timeout — server RumahOTP tidak merespons
+2026-10-17 19:12:19: [31m[19:12:19] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: Error: read ETIMEDOUT
+2026-10-17 19:12:20: [31m[19:12:20] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:21: [31m[19:12:21] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:21: [31m[19:12:21] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:22: [31m[19:12:22] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:22: [31m[19:12:22] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:23: [31m[19:12:23] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:23: [31m[19:12:23] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:24: [31m[19:12:24] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:25: [31m[19:12:25] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:25: [31m[19:12:25] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:26: [31m[19:12:26] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:26: [31m[19:12:26] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:27: [31m[19:12:27] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:28: [31m[19:12:28] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:28: [31m[19:12:28] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:29: [31m[19:12:29] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:29: [31m[19:12:29] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:30: [31m[19:12:30] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:30: [31m[19:12:30] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:31: [31m[19:12:31] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:32: [31m[19:12:32] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:32: [31m[19:12:32] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:33: [31m[19:12:33] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:33: [31m[19:12:33] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:34: [31m[19:12:34] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:34: [31m[19:12:34] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:35: [31m[19:12:35] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:36: [31m[19:12:36] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:36: [31m[19:12:36] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:37: [31m[19:12:37] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:37: [31m[19:12:37] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:38: [31m[19:12:38] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:39: [31m[19:12:39] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:39: [31m[19:12:39] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:40: [31m[19:12:40] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:40: [31m[19:12:40] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:41: [31m[19:12:41] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:41: [31m[19:12:41] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:42: [31m[19:12:42] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:43: [31m[19:12:43] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:43: [31m[19:12:43] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:44: [31m[19:12:44] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:44: [31m[19:12:44] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:45: [31m[19:12:45] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:46: [31m[19:12:46] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:46: [31m[19:12:46] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:47: [31m[19:12:47] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:47: [31m[19:12:47] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:48: [31m[19:12:48] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:48: [31m[19:12:48] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:49: [31m[19:12:49] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:50: [31m[19:12:50] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:50: [31m[19:12:50] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:51: [31m[19:12:51] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:51: [31m[19:12:51] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:52: [31m[19:12:52] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:52: [31m[19:12:52] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:53: [31m[19:12:53] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:54: [31m[19:12:54] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:54: [31m[19:12:54] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:55: [31m[19:12:55] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:55: [31m[19:12:55] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:56: [31m[19:12:56] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:57: [31m[19:12:57] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:57: [31m[19:12:57] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:58: [31m[19:12:58] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:58: [31m[19:12:58] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:59: [31m[19:12:59] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:12:59: [31m[19:12:59] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:00: [31m[19:13:00] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:01: [31m[19:13:01] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:01: [31m[19:13:01] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:02: [31m[19:13:02] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:02: [31m[19:13:02] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:03: [31m[19:13:03] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:04: [31m[19:13:04] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:04: [31m[19:13:04] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:05: [31m[19:13:05] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:05: [31m[19:13:05] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:06: [31m[19:13:06] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:06: [31m[19:13:06] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:07: [31m[19:13:07] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:08: [31m[19:13:08] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:08: [31m[19:13:08] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:09: [31m[19:13:09] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:09: [31m[19:13:09] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:10: [31m[19:13:10] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:11: [31m[19:13:11] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:11: [31m[19:13:11] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:12: [31m[19:13:12] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:12: [31m[19:13:12] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:13: [31m[19:13:13] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:13: [31m[19:13:13] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:14: [31m[19:13:14] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:15: [31m[19:13:15] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:15: [31m[19:13:15] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:16: [31m[19:13:16] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:16: [31m[19:13:16] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:17: [31m[19:13:17] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:17: [31m[19:13:17] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:18: [31m[19:13:18] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:19: [31m[19:13:19] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:19: [31m[19:13:19] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:20: [31m[19:13:20] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:20: [31m[19:13:20] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:21: [31m[19:13:21] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:22: [31m[19:13:22] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:22: [31m[19:13:22] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:23: [31m[19:13:23] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:23: [31m[19:13:23] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:24: [31m[19:13:24] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:24: [31m[19:13:24] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:25: [31m[19:13:25] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:26: [31m[19:13:26] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:26: [31m[19:13:26] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:27: [31m[19:13:27] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:27: [31m[19:13:27] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:28: [31m[19:13:28] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:29: [31m[19:13:29] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:29: [31m[19:13:29] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:30: [31m[19:13:30] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:30: [31m[19:13:30] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:31: [31m[19:13:31] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:31: [31m[19:13:31] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:32: [31m[19:13:32] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:33: [31m[19:13:33] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:33: [31m[19:13:33] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:34: [31m[19:13:34] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:34: [31m[19:13:34] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:35: [31m[19:13:35] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:35: [31m[19:13:35] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:36: [31m[19:13:36] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:37: [31m[19:13:37] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:37: [31m[19:13:37] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:38: [31m[19:13:38] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-17 19:13:38: [31m[19:13:38] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:34: [31m[03:13:34] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: Error: read ETIMEDOUT
+2026-10-19 03:13:35: [31m[03:13:35] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:36: [31m[03:13:36] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:36: [31m[03:13:36] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:37: [31m[03:13:37] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:38: [31m[03:13:38] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:38: [31m[03:13:38] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:39: [31m[03:13:39] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:39: [31m[03:13:39] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:40: [31m[03:13:40] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:40: [31m[03:13:40] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:41: [31m[03:13:41] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:42: [31m[03:13:42] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:42: [31m[03:13:42] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:43: [31m[03:13:43] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:43: [31m[03:13:43] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:44: [31m[03:13:44] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:45: [31m[03:13:45] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:45: [31m[03:13:45] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:46: [31m[03:13:46] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:46: [31m[03:13:46] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:47: [31m[03:13:47] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:47: [31m[03:13:47] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:48: [31m[03:13:48] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:49: [31m[03:13:49] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:49: [31m[03:13:49] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:50: [31m[03:13:50] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:50: [31m[03:13:50] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:51: [31m[03:13:51] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:51: [31m[03:13:51] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:52: [31m[03:13:52] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:53: [31m[03:13:53] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:53: [31m[03:13:53] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:54: [31m[03:13:54] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:54: [31m[03:13:54] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:55: [31m[03:13:55] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:56: [31m[03:13:56] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:56: [31m[03:13:56] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:57: [31m[03:13:57] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:57: [31m[03:13:57] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:58: [31m[03:13:58] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:58: [31m[03:13:58] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:13:59: [31m[03:13:59] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:00: [31m[03:14:00] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:00: [31m[03:14:00] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:01: [31m[03:14:01] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:01: [31m[03:14:01] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:02: [31m[03:14:02] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:02: [31m[03:14:02] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:03: [31m[03:14:03] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:04: [31m[03:14:04] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:04: [31m[03:14:04] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:05: [31m[03:14:05] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:05: [31m[03:14:05] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:06: [31m[03:14:06] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:07: [31m[03:14:07] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:07: [31m[03:14:07] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:08: [31m[03:14:08] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:08: [31m[03:14:08] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:09: [31m[03:14:09] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:09: [31m[03:14:09] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:10: [31m[03:14:10] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:11: [31m[03:14:11] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:11: [31m[03:14:11] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:12: [31m[03:14:12] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:12: [31m[03:14:12] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:13: [31m[03:14:13] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:14: [31m[03:14:14] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:14: [31m[03:14:14] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:15: [31m[03:14:15] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:15: [31m[03:14:15] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:16: [31m[03:14:16] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:16: [31m[03:14:16] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:17: [31m[03:14:17] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:18: [31m[03:14:18] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:18: [31m[03:14:18] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:19: [31m[03:14:19] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:19: [31m[03:14:19] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:20: [31m[03:14:20] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:20: [31m[03:14:20] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:21: [31m[03:14:21] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:22: [31m[03:14:22] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:22: [31m[03:14:22] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:23: [31m[03:14:23] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:23: [31m[03:14:23] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:24: [31m[03:14:24] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:25: [31m[03:14:25] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:25: [31m[03:14:25] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:26: [31m[03:14:26] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:26: [31m[03:14:26] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:27: [31m[03:14:27] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:27: [31m[03:14:27] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:28: [31m[03:14:28] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:29: [31m[03:14:29] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:29: [31m[03:14:29] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:30: [31m[03:14:30] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:30: [31m[03:14:30] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:31: [31m[03:14:31] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:31: [31m[03:14:31] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:32: [31m[03:14:32] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:33: [31m[03:14:33] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:33: [31m[03:14:33] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:34: [31m[03:14:34] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:34: [31m[03:14:34] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:35: [31m[03:14:35] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:36: [31m[03:14:36] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:36: [31m[03:14:36] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:37: [31m[03:14:37] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:37: [31m[03:14:37] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:38: [31m[03:14:38] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:38: [31m[03:14:38] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:39: [31m[03:14:39] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:40: [31m[03:14:40] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:40: [31m[03:14:40] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:41: [31m[03:14:41] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:41: [31m[03:14:41] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:42: [31m[03:14:42] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:42: [31m[03:14:42] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:43: [31m[03:14:43] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:44: [31m[03:14:44] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:44: [31m[03:14:44] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:45: [31m[03:14:45] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:45: [31m[03:14:45] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:46: [31m[03:14:46] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:47: [31m[03:14:47] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:47: [31m[03:14:47] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:48: [31m[03:14:48] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:48: [31m[03:14:48] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:49: [31m[03:14:49] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:49: [31m[03:14:49] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:50: [31m[03:14:50] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:51: [31m[03:14:51] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:51: [31m[03:14:51] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:52: [31m[03:14:52] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:52: [31m[03:14:52] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:53: [31m[03:14:53] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:54: [31m[03:14:54] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:54: [31m[03:14:54] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:55: [31m[03:14:55] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:55: [31m[03:14:55] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:56: [31m[03:14:56] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:56: [31m[03:14:56] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:57: [31m[03:14:57] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:58: [31m[03:14:58] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:58: [31m[03:14:58] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:59: [31m[03:14:59] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:14:59: [31m[03:14:59] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:15:00: [31m[03:15:00] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:15:01: [31m[03:15:01] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 03:15:01: [31m[03:15:01] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:02: [31m[07:19:02] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: Error: read ETIMEDOUT
+2026-10-19 07:19:03: [31m[07:19:03] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:03: [31m[07:19:03] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:04: [31m[07:19:04] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:05: [31m[07:19:05] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:05: [31m[07:19:05] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:06: [31m[07:19:06] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:06: [31m[07:19:06] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:07: [31m[07:19:07] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:08: [31m[07:19:08] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:08: [31m[07:19:08] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:09: [31m[07:19:09] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:09: [31m[07:19:09] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:10: [31m[07:19:10] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:10: [31m[07:19:10] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:11: [31m[07:19:11] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:12: [31m[07:19:12] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:12: [31m[07:19:12] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:13: [31m[07:19:13] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:13: [31m[07:19:13] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:14: [31m[07:19:14] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:15: [31m[07:19:15] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:15: [31m[07:19:15] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:16: [31m[07:19:16] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:16: [31m[07:19:16] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:17: [31m[07:19:17] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:18: [31m[07:19:18] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:18: [31m[07:19:18] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:19: [31m[07:19:19] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:19: [31m[07:19:19] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:20: [31m[07:19:20] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:21: [31m[07:19:21] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:21: [31m[07:19:21] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:22: [31m[07:19:22] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:22: [31m[07:19:22] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:23: [31m[07:19:23] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:23: [31m[07:19:23] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:24: [31m[07:19:24] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:25: [31m[07:19:25] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:25: [31m[07:19:25] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:26: [31m[07:19:26] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:26: [31m[07:19:26] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:27: [31m[07:19:27] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:28: [31m[07:19:28] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:28: [31m[07:19:28] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:29: [31m[07:19:29] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:29: [31m[07:19:29] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:30: [31m[07:19:30] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:30: [31m[07:19:30] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:31: [31m[07:19:31] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:32: [31m[07:19:32] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:32: [31m[07:19:32] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-19 07:19:33: [31m[07:19:33] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-22 18:18:57: [cb] uid=8194101640 data=menu:otp: [RO:services] Request failed with status code 521
+2026-10-22 18:18:57: [31m[18:18:57] [ERROR][0m uid=8194101640(manukzx) ctx=cb:menu:otp: [RO:services] Request failed with status code 521
+2026-10-23 16:34:37: [31m[16:34:37] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 429 Too Many Requests: retry after 5
+2026-10-23 16:34:37: [31m[16:34:37] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 429 Too Many Requests: retry after 5
+2026-10-23 16:34:38: [31m[16:34:38] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 429 Too Many Requests: retry after 5
+2026-10-23 16:34:45: [31m[16:34:45] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-23 16:34:46: [31m[16:34:46] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-23 16:34:46: [31m[16:34:46] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-23 16:34:47: [31m[16:34:47] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-23 16:34:47: [31m[16:34:47] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-23 16:34:48: [31m[16:34:48] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-23 16:34:48: [31m[16:34:48] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-23 16:34:49: [31m[16:34:49] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-23 16:34:49: [31m[16:34:49] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-23 16:34:50: [31m[16:34:50] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-23 16:34:50: [31m[16:34:50] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-23 16:34:51: [31m[16:34:51] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-23 16:34:51: [31m[16:34:51] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-23 16:34:52: [31m[16:34:52] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-23 16:34:52: [31m[16:34:52] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-23 16:34:53: [31m[16:34:53] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-23 16:34:53: [31m[16:34:53] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-23 16:34:54: [31m[16:34:54] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-23 16:34:54: [31m[16:34:54] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-23 16:34:54: [31m[16:34:54] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-23 16:34:55: [31m[16:34:55] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 502 Bad Gateway
+2026-10-23 16:36:55: [31m[16:36:55] [ERROR][0m uid=-(system) ctx=polling_error: ETELEGRAM ETELEGRAM: 504 Gateway Timeout
+2026-10-24 04:18:07: [31m[04:18:07] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: Error: read ETIMEDOUT
+2026-10-24 04:18:09: [31m[04:18:09] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-24 04:18:09: [31m[04:18:09] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-24 04:19:10: [31m[04:19:10] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: Error: socket hang up
+2026-10-24 04:21:21: [31m[04:21:21] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: Error: read ETIMEDOUT
+2026-10-24 04:21:22: [31m[04:21:22] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-24 04:21:22: [31m[04:21:22] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-24 04:29:50: [31m[04:29:50] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: Error: read ETIMEDOUT
+2026-10-24 04:29:51: [31m[04:29:51] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-24 04:30:52: [31m[04:30:52] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: Error: socket hang up
+2026-10-24 04:37:27: [31m[04:37:27] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: Error: read ETIMEDOUT
+2026-10-24 04:37:28: [31m[04:37:28] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-24 04:37:28: [31m[04:37:28] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-24 04:37:29: [31m[04:37:29] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-24 04:37:29: [31m[04:37:29] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-24 04:37:30: [31m[04:37:30] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-24 04:37:31: [31m[04:37:31] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-24 04:45:33: [31m[04:45:33] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: Error: read ETIMEDOUT
+2026-10-24 04:45:34: [31m[04:45:34] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-24 04:45:34: [31m[04:45:34] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-24 04:45:35: [31m[04:45:35] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-24 04:45:36: [31m[04:45:36] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-24 04:45:36: [31m[04:45:36] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-24 04:50:48: [31m[04:50:48] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: Error: read ETIMEDOUT
+2026-10-24 05:01:05: [31m[05:01:05] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: Error: read ETIMEDOUT
+2026-10-24 05:17:17: [31m[05:17:17] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: Error: read ETIMEDOUT
+2026-10-24 05:17:18: [31m[05:17:18] [ERROR][0m uid=-(system) ctx=polling_error: EFATAL EFATAL: AggregateError
+2026-10-24 12:07:45: [cb] uid=8194101640 data=menu:otp: [RO:services] Request failed with status code 521
+2026-10-24 12:07:45: [31m[12:07:45] [ERROR][0m uid=8194101640(manukzx) ctx=cb:menu:otp: [RO:services] Request failed with status code 521
+2026-10-24 13:57:09: [cb] uid=8194101640 data=menu:otp: [RO:services] Request failed with status code 521
+2026-10-24 13:57:09: [31m[13:57:09] [ERROR][0m uid=8194101640(manukzx) ctx=cb:menu:otp: [RO:services] Request failed with status code 521
+2026-10-25 16:27:53: (node:2409) [node-telegram-bot-api] DeprecationWarning: Buffers will have their filenames default to "filename" instead of "data". See https://github.com/yagop/node-telegram-bot-api/blob/master/doc/usage.md#sending-files for more information on how sending files has been improved and on how to disable this deprecation message altogether.
+(Use `node --trace-deprecation ...` to show where the warning was created)

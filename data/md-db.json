@@ -1,0 +1,66 @@
+{
+  "groups": {
+    "-1004317182000": {
+      "id": -1004317182000,
+      "prefix": ".",
+      "antilink": false,
+      "welcome": true,
+      "warns": {},
+      "members": {
+        "8194101640": {
+          "first_name": "manukzx",
+          "username": "manukzx"
+        }
+      },
+      "rules": "yah"
+    },
+    "8115232554": {
+      "id": 8115232554,
+      "prefix": ".",
+      "antilink": false,
+      "welcome": true,
+      "warns": {},
+      "members": {}
+    },
+    "8194101640": {
+      "id": 8194101640,
+      "prefix": ".",
+      "antilink": false,
+      "welcome": true,
+      "warns": {},
+      "members": {}
+    }
+  },
+  "users": {
+    "8194101640": {
+      "id": 8194101640,
+      "premium": false,
+      "premium_until": null,
+      "limit": {
+        "max": 2000,
+        "used": 0,
+        "date": "2026-10-25"
+      }
+    },
+    "8115232554": {
+      "id": 8115232554,
+      "premium": false,
+      "premium_until": null,
+      "limit": {
+        "max": null,
+        "used": 0,
+        "date": "2026-10-05"
+      }
+    },
+    "8505594511": {
+      "id": 8505594511,
+      "premium": false,
+      "premium_until": null,
+      "limit": {
+        "max": 1000,
+        "used": 0,
+        "date": "2026-10-07"
+      }
+    }
+  }
+}

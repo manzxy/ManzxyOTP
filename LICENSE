@@ -1,0 +1,46 @@
+MIT License
+
+Copyright (c) 2026 Manzxy (github.com/manzxy)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to
+deal in the Software without restriction, including without limitation the
+rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+sell copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice (including the
+attribution clause below) shall be included in all copies or substantial
+portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+────────────────────────────────────────────────────────────────────────────
+
+Klausul Atribusi Tambahan (mengikat, bagian dari lisensi ini)
+
+Proyek ini open-source dan bebas digunakan, dimodifikasi, serta
+didistribusikan ulang (termasuk untuk keperluan komersial) sesuai izin MIT
+di atas — dengan satu syarat tegas:
+
+  Atribusi "Manzxy" sebagai pembuat asli — termasuk namun tidak terbatas
+  pada nama "ManzxyOTP", copyright notice di atas, kredit "Dibuat oleh
+  Manzxy" di README, dan header atribusi pada source code — TIDAK BOLEH
+  dihapus, disamarkan, atau diganti dengan nama/identitas pihak lain, pada
+  salinan, fork, maupun turunan (derivative work) dari proyek ini.
+
+Fork dan modifikasi silakan dilakukan bebas — ubah fitur, nama produk/brand
+untuk deploymentmu sendiri, tambah command, dsb. Yang tidak boleh hanya:
+menghapus/mengganti atribusi kepemilikan asli di atas atau mengklaim seluruh
+karya ini sebagai buatan sendiri dari nol.
+
+Nama      : Manzxy
+GitHub    : github.com/manzxy
+Instagram : @manzkenzzid_
+TikTok    : @manzoffc
