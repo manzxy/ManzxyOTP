@@ -462,6 +462,6 @@ Lihat berkas [`LICENSE`](./LICENSE) untuk teks lengkap.
 
 <div align="center">
 
-**Dibuat dengan ❤️ oleh [Manzxy](https://github.com/manzxy)**
+**Dibuat oleh [Manzxy](https://github.com/manzxy)**
 
 </div>
